@@ -1,5 +1,5 @@
 # project name
-Educational-institution
+Educational-institutio
 
 # Descriptio
 An educational institution for organizing the schedules of students and teachers.
